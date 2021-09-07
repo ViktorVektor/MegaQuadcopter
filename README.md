@@ -4,6 +4,9 @@
 
 A custom quadcopter I started back in highschool and only got around the finishing durng the pandemic. It boasts a 5" frame with 2204 motors, can take 3S or 4S and has FPV capabilities. It weighs in at about 500g.
 
+Software:
+- Betaflight
+
 ### Purpose
 
 I was inspired by videos online of people flying around their drones with a First Person View, where an onboard camera would transmit a live video feed to the user's headset display. Looking into prebuilt systems, I found that most were out of my pricerange as a teenager with a part time job, so I opted to build one out of various parts I found online.
@@ -29,8 +32,11 @@ When testing it however, the device seemed to not work even after checking that 
 Having gained more experience through school and other projects, I decided to revisit the drone that had been on hold for a while. When going through my old parts, I found that the problem that occured last time was that the Flight Controller had been shorted somehow. It was possibly during one of my testing steps where I shorted it, nevertheless I ordered a new controller. This time, it was a 2-in-1 FC, meaning that it was both a PDB and an FC. I had also ordered additional batteries, a smaller and more compatible camera, and new ESC's.
 
 https://www.amazon.ca/gp/product/B07CVCKHQ8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+
 https://www.aliexpress.com/item/1005001274638034.html?spm=a2g0s.9042311.0.0.2a8d4c4dc7XAuy
+
 https://www.aliexpress.com/item/1005001270601236.html?spm=a2g0s.9042311.0.0.2a8d4c4dc7XAuy
+
 https://www.aliexpress.com/item/1005001413989550.html?spm=a2g0s.9042311.0.0.2a8d4c4dc7XAuy
 
 During this time, I had also been trying out numerous Flight Simulators. I eventually settled on Liftoff.
