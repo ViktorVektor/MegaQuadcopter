@@ -33,6 +33,8 @@ https://www.aliexpress.com/item/1005001274638034.html?spm=a2g0s.9042311.0.0.2a8d
 https://www.aliexpress.com/item/1005001270601236.html?spm=a2g0s.9042311.0.0.2a8d4c4dc7XAuy
 https://www.aliexpress.com/item/1005001413989550.html?spm=a2g0s.9042311.0.0.2a8d4c4dc7XAuy
 
+During this time, I had also been trying out numerous Flight Simulators. I eventually settled on Liftoff.
+
 #### Legality of Drones in Canada
 
 Due to recent laws in between the time I started building it and now, there have been a number of Federal, Provincial, and Municipal laws regarding the usage of drones in Canada. To start with, there was now a weight classification for drones, where having one over 250g would require me to obtain a license and regestration before flying. I would also have to keep maintenance and flight logs of the drone, as well as report on the state of the environment when flying. Obtaining a license wasn't too difficult, costing me a Saturday afternoon from knowing nothing to obtaining one. More info can be found on Transport Canada's website.
@@ -53,4 +55,8 @@ The ESC's were also damaged in my early days of soldering, so the new ones were 
 
 With the components arrived, I rebuilt the drone from the ground up, re-routing my cabling to be more secure and only using what was necessary to remove bulk. One component I had issues with was the FPV communication between the camera, video transmitter, and FC. The camera feed was linked to the FC, where the FC would place some HUD onto it, which was then sent to the transmitter to be transmitted. After hours of resoldering and research, I found that a wire inside from the camera had a discontinuity in it and needed replacement.
 
+After completing the assembly, I loaded up the FC firmware and tuned my settings to match the flight simulator I had been using to train. After a testflight in a nearby gravel field, some debris ended up inside the motors which had to be removed.
 
+Most work on this quadcopter ended here because a second one that would be under 250g was being developed.
+
+https://github.com/ViktorVektor/MiniQuadcopter
